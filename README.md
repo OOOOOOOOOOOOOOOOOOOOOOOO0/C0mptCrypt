@@ -16,3 +16,8 @@
 
 
 **Install**
+
+```https://github.com/execution/C0mptCrypt.git```
+
+```cd C0mptCrypt```
+
