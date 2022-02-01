@@ -17,13 +17,21 @@
 
 **Install**
 
-```https://github.com/execution/C0mptCrypt.git```
+```
+https://github.com/execution/C0mptCrypt.git
+```
 
-```cd C0mptCrypt```
+```
+cd C0mptCrypt
+```
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
-```cd Examples```
+```
+cd Examples
+```
 
 ```
 cat encrypt_example.py
