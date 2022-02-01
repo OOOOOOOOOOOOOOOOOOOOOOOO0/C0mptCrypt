@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://forensicscience.camden.rutgers.edu/files/ForensicIcons_13.png" width="150px"><br>
+	<img src="https://www.nicepng.com/png/full/395-3955868_security-shield-lock-icon.png" width="150px"><br>
     C0mptCrypt - An object-oriented, minamalistic, simple encryption library in Python.
 </h1>
 <p align="center">
