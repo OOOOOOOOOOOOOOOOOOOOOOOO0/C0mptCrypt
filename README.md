@@ -5,3 +5,6 @@
 <p align="center">
     C0mptCrypt allows you to encrypt strings of text. It can only be decrypted using C0mptCrypt and not by random online tools. You can use this for a variety of things from creating passwords, to encrypting HWIDs.
 </p>
+
+
+**Install**
