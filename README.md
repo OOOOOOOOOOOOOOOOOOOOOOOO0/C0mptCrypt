@@ -18,7 +18,7 @@
 **Install**
 
 ```
-https://github.com/execution/C0mptCrypt.git
+git clone https://github.com/execution/C0mptCrypt.git
 ```
 
 ```
