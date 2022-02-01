@@ -25,6 +25,8 @@
 
 ```cd Examples```
 
-```cat encrypt_example.py
-cat decrypt_example.py```
+```
+cat encrypt_example.py
+cat decrypt_example.py
+```
 
