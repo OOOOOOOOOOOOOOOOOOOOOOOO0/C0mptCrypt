@@ -3,6 +3,12 @@ from Crypto.Random import get_random_bytes
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 
+
+# main.py
+# Date: 01/02/2022
+# Author: execution
+
+
 class C0mptCrypt:
 
     def __init__(self):
