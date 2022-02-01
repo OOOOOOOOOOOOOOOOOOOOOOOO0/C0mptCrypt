@@ -30,10 +30,6 @@ pip install -r requirements.txt
 ```
 
 ```
-cd Examples
-```
-
-```
 cat encrypt_example.py
 cat decrypt_example.py
 ```
