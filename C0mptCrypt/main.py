@@ -1,4 +1,4 @@
-import base64, hashlib, sys, time, os, optparse
+import base64, hashlib, sys, time, os
 from Crypto.Random import get_random_bytes
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
