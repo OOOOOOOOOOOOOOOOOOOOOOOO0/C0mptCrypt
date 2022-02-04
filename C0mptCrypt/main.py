@@ -38,8 +38,6 @@ class C0mptCrypt:
         self.EncryptSpinner()
         self.Clear()
         return e.decode()
-
-
     
     def Decrypt(self, string):
         r = base64.b64decode(string)
