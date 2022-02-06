@@ -11,7 +11,7 @@
 **Install**
 
 ```
-git clone https://github.com/execution/C0mptCrypt.git
+python3 -m pip install git+https://github.com/execution/C0mptCrypt
 ```
 
 ```
