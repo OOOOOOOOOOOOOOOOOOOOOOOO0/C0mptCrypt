@@ -11,7 +11,7 @@
 **Install**
 
 ```
-python3 -m pip install git+https://github.com/execution/C0mptCrypt
+pip install git+https://github.com/execution/C0mptCrypt
 ```
 
 <h1></h1>
