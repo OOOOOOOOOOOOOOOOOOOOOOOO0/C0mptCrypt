@@ -27,4 +27,3 @@ cat encrypt_example.py
 cat decrypt_example.py
 ```
 
-(To test these examples, drag them **out** of the examples folder)
