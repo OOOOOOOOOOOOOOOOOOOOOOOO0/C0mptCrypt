@@ -1,6 +1,6 @@
 setuptools.setup(
     name="C0mptCrypt",
-    description=An object-oriented, minamalistic, simple encryption library in Python. ",
+    description="An object-oriented, minamalistic, simple encryption library in Python.",
     url="https://github.com/execution/C0mptCrypt",
     packages=["C0mptCrypt"],
     license="",
