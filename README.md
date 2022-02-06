@@ -14,14 +14,6 @@
 python3 -m pip install git+https://github.com/execution/C0mptCrypt
 ```
 
-```
-cd C0mptCrypt
-```
-
-```
-pip install -r requirements.txt
-```
-
 <h1></h1>
 
 **Check out some examples!**
