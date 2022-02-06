@@ -1,3 +1,6 @@
+with open("requirements.txt") as fp:
+    requirements = fp.read().splitlines()
+
 setuptools.setup(
     name="C0mptCrypt",
     description="An object-oriented, minamalistic, simple encryption library in Python.",
