@@ -1,5 +1,7 @@
 with open("requirements.txt") as fp:
     requirements = fp.read().splitlines()
+with open("README.md") as fp:
+    readme = fp.read(
 
 setuptools.setup(
     name="C0mptCrypt",
@@ -8,6 +10,6 @@ setuptools.setup(
     packages=["C0mptCrypt"],
     license="",
     install_requires=requirements,
-    version=version,
+    version=0.1,
     long_description=readme,
 )
