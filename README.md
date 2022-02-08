@@ -3,7 +3,7 @@
     C0mptCrypt - An object-oriented, minamalistic, simple encryption library in Python.
 </h1>
 <p align="center">
-    C0mptCrypt allows you to encrypt strings of text. It can only be decrypted using C0mptCrypt and not by random online tools. You can use this for a variety of things from creating passwords, to encrypting HWIDs.
+    C0mptCrypt allows you to encrypt strings of text, and decrypt that text. It can only be decrypted using C0mptCrypt and not by random online tools. You can use this for a variety of things from creating passwords, to encrypting HWIDs and much more!.
 </p>
 
 <h1></h1>
