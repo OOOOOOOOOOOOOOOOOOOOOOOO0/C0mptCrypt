@@ -18,7 +18,7 @@ pip install git+https://github.com/execution/C0mptCrypt
 
 **Code Example**
 
-```
+```python
 from C0mptCrypt import C0mptCrypt***
 
 string = input("Enter string: ")
