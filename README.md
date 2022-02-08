@@ -16,14 +16,14 @@ pip install git+https://github.com/execution/C0mptCrypt
 
 <h1></h1>
 
-**Check out some examples!**
+**Code Example**
 
 ```
-cd Examples
-```
+from C0mptCrypt import C0mptCrypt***
 
-```
-cat encrypt_example.py
-cat decrypt_example.py
-```
+string = input("Enter string: ")
 
+enc = C0mptCrypt().Encrypt(string)
+
+print(enc)
+```
