@@ -7,15 +7,16 @@ from Crypto.Util.Padding import pad, unpad
 # main.py
 # Date: 01/02/2022
 # Author: execution
+# Contributor: therealOri
 
 
 class C0mptCrypt:
 
     def __init__(self):
-        self.hash_key = hashlib.md5("c0mpt0".encode('utf-8')).digest()
+        self.hash_key = hashlib.blake2b("c0mpt0_&_Ori".encode('utf-8'), digest_size=16).digest()
 
     def Clear(self):
-        os.system('cls' if os.name == 'nt' else 'clear')
+        os.system('clear||cls')
 
     def EncryptSpinner(self):
         l = ['|', '/', '√', '\\']
